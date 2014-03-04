@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Frozen</source>
-        <translation>Tietoa Frozenista</translation>
+        <source>About Bleuet</source>
+        <translation>Tietoa Bleuetista</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Frozen&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Frozen&lt;/b&gt; versio</translation>
+        <source>&lt;b&gt;Bleuet&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Bleuet&lt;/b&gt; versio</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -35,7 +35,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+0"/>
-        <source>The Frozen developers</source>
+        <source>The Bleuet developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -68,8 +68,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Frozen addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Nämä ovat Frozen-osoitteesi joihin voit vastaanottaa maksuja. Voit haluta antaa jokaiselle maksajalle omansa, että pystyt seuraamaan keneltä maksut tulevat.</translation>
+        <source>These are your Bleuet addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Nämä ovat Bleuet-osoitteesi joihin voit vastaanottaa maksuja. Voit haluta antaa jokaiselle maksajalle omansa, että pystyt seuraamaan keneltä maksut tulevat.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -83,8 +83,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Frozen address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat Frozen-osoitteen</translation>
+        <source>Sign a message to prove you own a Bleuet address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat Bleuet-osoitteen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -108,8 +108,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Frozen address</source>
-        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Frozen-osoitteella</translation>
+        <source>Verify a message to ensure it was signed with a specified Bleuet address</source>
+        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Bleuet-osoitteella</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -123,7 +123,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Frozen addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Bleuet addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -276,8 +276,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="-56"/>
-        <source>Frozen will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your frozens from being stolen by malware infecting your computer.</source>
-        <translation>Frozen sulkeutuu lopettaakseen salausprosessin. Muista, että salattukaan lompakko ei täysin suojaa sitä haittaohjelmien aiheuttamilta varkauksilta.</translation>
+        <source>Bleuet will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bleuets from being stolen by malware infecting your computer.</source>
+        <translation>Bleuet sulkeutuu lopettaakseen salausprosessin. Muista, että salattukaan lompakko ei täysin suojaa sitä haittaohjelmien aiheuttamilta varkauksilta.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -361,7 +361,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     <message>
         <location line="-14"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation>Näytä Frozenien vastaanottamiseen käytetyt osoitteet</translation>
+        <translation>Näytä Bleuetien vastaanottamiseen käytetyt osoitteet</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -375,8 +375,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Frozen</source>
-        <translation>Näytä tietoa Frozen-projektista</translation>
+        <source>Show information about Bleuet</source>
+        <translation>Näytä tietoa Bleuet-projektista</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -420,13 +420,13 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Frozen address</source>
-        <translation>Lähetä kolikoita Frozen-osoitteeseen</translation>
+        <source>Send coins to a Bleuet address</source>
+        <translation>Lähetä kolikoita Bleuet-osoitteeseen</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Frozen</source>
-        <translation>Muuta Frozenin konfiguraatioasetuksia</translation>
+        <source>Modify configuration options for Bleuet</source>
+        <translation>Muuta Bleuetin konfiguraatioasetuksia</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -456,8 +456,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Frozen</source>
-        <translation>Frozen</translation>
+        <source>Bleuet</source>
+        <translation>Bleuet</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -481,8 +481,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Frozen</source>
-        <translation>&amp;Tietoa Frozenista</translation>
+        <source>&amp;About Bleuet</source>
+        <translation>&amp;Tietoa Bleuetista</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -492,7 +492,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     <message>
         <location line="+1"/>
         <source>Show or hide the main Window</source>
-        <translation>Näytä tai piilota Frozen-ikkuna</translation>
+        <translation>Näytä tai piilota Bleuet-ikkuna</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -501,13 +501,13 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Frozen addresses to prove you own them</source>
-        <translation>Allekirjoita viestisi omalla Frozen -osoitteellasi todistaaksesi, että omistat ne</translation>
+        <source>Sign messages with your Bleuet addresses to prove you own them</source>
+        <translation>Allekirjoita viestisi omalla Bleuet -osoitteellasi todistaaksesi, että omistat ne</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Frozen addresses</source>
-        <translation>Varmista, että viestisi on allekirjoitettu määritetyllä Frozen -osoitteella</translation>
+        <source>Verify messages to ensure they were signed with specified Bleuet addresses</source>
+        <translation>Varmista, että viestisi on allekirjoitettu määritetyllä Bleuet -osoitteella</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -537,13 +537,13 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+47"/>
-        <source>Frozen client</source>
-        <translation>Frozen-asiakas</translation>
+        <source>Bleuet client</source>
+        <translation>Bleuet-asiakas</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Frozen network</source>
-        <translation><numerusform>%n aktiivinen yhteys Frozen-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Frozen-verkkoon</numerusform></translation>
+        <source>%n active connection(s) to Bleuet network</source>
+        <translation><numerusform>%n aktiivinen yhteys Bleuet-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Bleuet-verkkoon</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +656,8 @@ Osoite: %4</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Frozen address or malformed URI parameters.</source>
-        <translation>URIa ei voitu jäsentää! Tämä voi johtua kelvottomasta Frozen-osoitteesta tai virheellisistä URI parametreista.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Bleuet address or malformed URI parameters.</source>
+        <translation>URIa ei voitu jäsentää! Tämä voi johtua kelvottomasta Bleuet-osoitteesta tai virheellisistä URI parametreista.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Frozen can no longer continue safely and will quit.</source>
-        <translation>Peruuttamaton virhe on tapahtunut. Frozen ei voi enää jatkaa turvallisesti ja sammutetaan.</translation>
+        <source>A fatal error occurred. Bleuet can no longer continue safely and will quit.</source>
+        <translation>Peruuttamaton virhe on tapahtunut. Bleuet ei voi enää jatkaa turvallisesti ja sammutetaan.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Frozen address.</source>
-        <translation>Antamasi osoite &quot;%1&quot; ei ole validi Frozen-osoite.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Bleuet address.</source>
+        <translation>Antamasi osoite &quot;%1&quot; ei ole validi Bleuet-osoite.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Osoite: %4</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Frozen-Qt</source>
-        <translation>Frozen-Qt</translation>
+        <source>Bleuet-Qt</source>
+        <translation>Bleuet-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Frozen after logging in to the system.</source>
-        <translation>Käynnistä Frozen kirjautumisen yhteydessä.</translation>
+        <source>Automatically start Bleuet after logging in to the system.</source>
+        <translation>Käynnistä Bleuet kirjautumisen yhteydessä.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Frozen on system login</source>
-        <translation>&amp;Käynnistä Frozen kirjautumisen yhteydessä</translation>
+        <source>&amp;Start Bleuet on system login</source>
+        <translation>&amp;Käynnistä Bleuet kirjautumisen yhteydessä</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,8 +844,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Frozen client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa Frozen-asiakasohjelman portti reitittimellä automaattisesti. Tämä toimii vain, jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
+        <source>Automatically open the Bleuet client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa Bleuet-asiakasohjelman portti reitittimellä automaattisesti. Tämä toimii vain, jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,8 +854,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Frozen network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Ota yhteys Frozen-verkkoon SOCKS-proxyn läpi (esimerkiksi kun haluat käyttää Tor-verkkoa).</translation>
+        <source>Connect to the Bleuet network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Ota yhteys Bleuet-verkkoon SOCKS-proxyn läpi (esimerkiksi kun haluat käyttää Tor-verkkoa).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -910,7 +910,7 @@ Osoite: %4</translation>
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Ikkunaa suljettaessa vain pienentää Frozen-ohjelman ikkunan lopettamatta itse ohjelmaa. Kun tämä asetus on valittuna, ohjelman voi sulkea vain valitsemalla Lopeta ohjelman valikosta.</translation>
+        <translation>Ikkunaa suljettaessa vain pienentää Bleuet-ohjelman ikkunan lopettamatta itse ohjelmaa. Kun tämä asetus on valittuna, ohjelman voi sulkea vain valitsemalla Lopeta ohjelman valikosta.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,23 +929,23 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Frozen.</source>
-        <translation>Tässä voit määritellä käyttöliittymän kielen. Muutokset astuvat voimaan seuraavan kerran, kun Frozen käynnistetään.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Bleuet.</source>
+        <translation>Tässä voit määritellä käyttöliittymän kielen. Muutokset astuvat voimaan seuraavan kerran, kun Bleuet käynnistetään.</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>Yksikkö jona frozen-määrät näytetään</translation>
+        <translation>Yksikkö jona bleuet-määrät näytetään</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Valitse mitä yksikköä käytetään ensisijaisesti frozen-määrien näyttämiseen.</translation>
+        <translation>Valitse mitä yksikköä käytetään ensisijaisesti bleuet-määrien näyttämiseen.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Frozen addresses in the transaction list or not.</source>
-        <translation>Näytetäänkö Frozen-osoitteet rahansiirrot listassa vai ei.</translation>
+        <source>Whether to show Bleuet addresses in the transaction list or not.</source>
+        <translation>Näytetäänkö Bleuet-osoitteet rahansiirrot listassa vai ei.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Osoite: %4</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Frozen.</source>
-        <translation>Tämä asetus astuu voimaan seuraavalla kerralla, kun Frozen käynnistetään.</translation>
+        <source>This setting will take effect after restarting Bleuet.</source>
+        <translation>Tämä asetus astuu voimaan seuraavalla kerralla, kun Bleuet käynnistetään.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Osoite: %4</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Frozen network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytetyt tiedot eivät välttämättä ole ajantasalla. Lompakkosi synkronoituu Frozen-verkon kanssa automaattisesti yhteyden muodostamisen jälkeen, mutta synkronointi on vielä meneillään.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bleuet network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytetyt tiedot eivät välttämättä ole ajantasalla. Lompakkosi synkronoituu Bleuet-verkon kanssa automaattisesti yhteyden muodostamisen jälkeen, mutta synkronointi on vielä meneillään.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1051,12 +1051,12 @@ Osoite: %4</translation>
     <message>
         <location line="-101"/>
         <source>Your current balance</source>
-        <translation>Tililläsi tällä hetkellä olevien Frozenien määrä</translation>
+        <translation>Tililläsi tällä hetkellä olevien Bleuetien määrä</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</source>
-        <translation>Niiden saapuvien rahansiirtojen määrä, joita Frozen-verkko ei vielä ole ehtinyt vahvistaa ja siten eivät vielä näy saldossa.</translation>
+        <translation>Niiden saapuvien rahansiirtojen määrä, joita Bleuet-verkko ei vielä ole ehtinyt vahvistaa ja siten eivät vielä näy saldossa.</translation>
     </message>
     <message>
         <location filename="../overviewpage.cpp" line="+116"/>
@@ -1069,7 +1069,7 @@ Osoite: %4</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start frozen: click-to-pay handler</source>
+        <source>Cannot start bleuet: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1219,8 +1219,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Frozen-Qt help message to get a list with possible Frozen command-line options.</source>
-        <translation>Näytä Frozen-Qt komentoriviparametrien ohjesivu, jossa on listattuna mahdolliset komentoriviparametrit.</translation>
+        <source>Show the Bleuet-Qt help message to get a list with possible Bleuet command-line options.</source>
+        <translation>Näytä Bleuet-Qt komentoriviparametrien ohjesivu, jossa on listattuna mahdolliset komentoriviparametrit.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Frozen - Debug window</source>
-        <translation>Frozen - Debug ikkuna</translation>
+        <source>Bleuet - Debug window</source>
+        <translation>Bleuet - Debug ikkuna</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Frozen Core</source>
-        <translation>Frozen-ydin</translation>
+        <source>Bleuet Core</source>
+        <translation>Bleuet-ydin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,7 +1254,7 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Frozen debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Bleuet debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Avaa lokitiedosto nykyisestä data-kansiosta. Tämä voi viedä useamman sekunnin, jos lokitiedosto on iso.</translation>
     </message>
     <message>
@@ -1264,8 +1264,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Frozen RPC console.</source>
-        <translation>Tervetuloa Frozen RPC konsoliin.</translation>
+        <source>Welcome to the Bleuet RPC console.</source>
+        <translation>Tervetuloa Bleuet RPC konsoliin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1290,7 +1290,7 @@ Osoite: %4</translation>
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Lähetä Frozeneja</translation>
+        <translation>Lähetä Bleueteja</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1340,7 +1340,7 @@ Osoite: %4</translation>
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Hyväksy Frozenien lähettäminen</translation>
+        <translation>Hyväksy Bleuetien lähettäminen</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1360,7 +1360,7 @@ Osoite: %4</translation>
     <message>
         <location line="+5"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>Maksettavan summan tulee olla suurempi kuin 0 Frozenia.</translation>
+        <translation>Maksettavan summan tulee olla suurempi kuin 0 Bleuetia.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1385,7 +1385,7 @@ Osoite: %4</translation>
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Virhe: Rahansiirto hylättiin.  Tämä voi tapahtua jos jotkin frozeneistasi on jo käytetty, esimerkiksi jos olet käyttänyt kopiota wallet.dat-lompakkotiedostosta ja frozenit on merkitty käytetyksi vain kopiossa.</translation>
+        <translation>Virhe: Rahansiirto hylättiin.  Tämä voi tapahtua jos jotkin bleueteistasi on jo käytetty, esimerkiksi jos olet käyttänyt kopiota wallet.dat-lompakkotiedostosta ja bleuetit on merkitty käytetyksi vain kopiossa.</translation>
     </message>
 </context>
 <context>
@@ -1448,8 +1448,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Frozen address (e.g. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</source>
-        <translation>Anna Frozen-osoite (esim. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</translation>
+        <source>Enter a Bleuet address (e.g. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</source>
+        <translation>Anna Bleuet-osoite (esim. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</translation>
     </message>
 </context>
 <context>
@@ -1513,8 +1513,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Frozen address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän Frozen-osoitteen</translation>
+        <source>Sign the message to prove you own this Bleuet address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän Bleuet-osoitteen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Frozen address</source>
-        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Frozen-osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified Bleuet address</source>
+        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Bleuet-osoitteella</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Osoite: %4</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Frozen address (e.g. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</source>
-        <translation>Anna Frozen-osoite (esim. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</translation>
+        <source>Enter a Bleuet address (e.g. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</source>
+        <translation>Anna Bleuet-osoite (esim. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Frozen signature</source>
-        <translation>Syötä Frozen-allekirjoitus</translation>
+        <source>Enter Bleuet signature</source>
+        <translation>Syötä Bleuet-allekirjoitus</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,7 +1649,7 @@ Osoite: %4</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Frozen developers</source>
+        <source>The Bleuet developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1955,7 +1955,7 @@ Osoite: %4</translation>
     <message>
         <location line="+2"/>
         <source>Destination address of transaction.</source>
-        <translation>Rahansiirron kohteen Frozen-osoite</translation>
+        <translation>Rahansiirron kohteen Bleuet-osoite</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2137,7 +2137,7 @@ Osoite: %4</translation>
     <message>
         <location filename="../walletmodel.cpp" line="+193"/>
         <source>Send Coins</source>
-        <translation>Lähetä Frozeneja</translation>
+        <translation>Lähetä Bleueteja</translation>
     </message>
 </context>
 <context>
@@ -2184,11 +2184,11 @@ Osoite: %4</translation>
     </message>
 </context>
 <context>
-    <name>frozen-core</name>
+    <name>bleuet-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Frozen version</source>
-        <translation>Frozenin versio</translation>
+        <source>Bleuet version</source>
+        <translation>Bleuetin versio</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2197,8 +2197,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or frozend</source>
-        <translation>Lähetä käsky palvelimelle tai frozend:lle</translation>
+        <source>Send command to -server or bleuetd</source>
+        <translation>Lähetä käsky palvelimelle tai bleuetd:lle</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,13 +2217,13 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: frozen.conf)</source>
-        <translation>Määritä asetustiedosto (oletus: frozen.conf)</translation>
+        <source>Specify configuration file (default: bleuet.conf)</source>
+        <translation>Määritä asetustiedosto (oletus: bleuet.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: frozend.pid)</source>
-        <translation>Määritä pid-tiedosto (oletus: frozen.pid)</translation>
+        <source>Specify pid file (default: bleuetd.pid)</source>
+        <translation>Määritä pid-tiedosto (oletus: bleuet.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2300,13 +2300,13 @@ Osoite: %4</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=frozenrpc
+rpcuser=bleuetrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Frozen Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Bleuet Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2322,7 +2322,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Frozen Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Frozen is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Bleuet is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2367,8 +2367,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Frozen Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Frozen will not work properly.</source>
-        <translation>Varoitus: Tarkista että tietokoneesi kellonaika ja päivämäärä ovat paikkansapitäviä! Frozen ei toimi oikein väärällä päivämäärällä ja/tai kellonajalla.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Bleuet will not work properly.</source>
+        <translation>Varoitus: Tarkista että tietokoneesi kellonaika ja päivämäärä ovat paikkansapitäviä! Bleuet ei toimi oikein väärällä päivämäärällä ja/tai kellonajalla.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2617,8 +2617,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Frozen Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Frozen Wiki for SSL setup instructions)</source>
-        <translation>SSL asetukset (katso Frozen Wikistä tarkemmat SSL ohjeet)</translation>
+        <source>SSL options: (see the Bleuet Wiki for SSL setup instructions)</source>
+        <translation>SSL asetukset (katso Bleuet Wikistä tarkemmat SSL ohjeet)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2808,13 +2808,13 @@ TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Frozen</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Tarvitset uudemman version Frozenista</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Bleuet</source>
+        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Tarvitset uudemman version Bleuetista</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Frozen to complete</source>
-        <translation>Lompakko tarvitsee uudelleenkirjoittaa: käynnistä Frozen uudelleen</translation>
+        <source>Wallet needed to be rewritten: restart Bleuet to complete</source>
+        <translation>Lompakko tarvitsee uudelleenkirjoittaa: käynnistä Bleuet uudelleen</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2873,8 +2873,8 @@ TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Frozen is probably already running.</source>
-        <translation>Kytkeytyminen %s ei onnistu tällä tietokoneella. Frozen on todennäköisesti jo ajamassa.</translation>
+        <source>Unable to bind to %s on this computer. Bleuet is probably already running.</source>
+        <translation>Kytkeytyminen %s ei onnistu tällä tietokoneella. Bleuet on todennäköisesti jo ajamassa.</translation>
     </message>
     <message>
         <location line="+64"/>

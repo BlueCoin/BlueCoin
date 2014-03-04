@@ -84,7 +84,7 @@ void setupAmountWidget(QLineEdit *widget, QWidget *parent)
 bool parseBitcoinURI(const QUrl &uri, SendCoinsRecipient *out)
 {
     // return if URI is not valid or is no bitcoin URI
-    if(!uri.isValid() || uri.scheme() != QString("frozen"))
+    if(!uri.isValid() || uri.scheme() != QString("bleuet"))
         return false;
 
     SendCoinsRecipient rv;
@@ -134,13 +134,13 @@ bool parseBitcoinURI(const QUrl &uri, SendCoinsRecipient *out)
 
 bool parseBitcoinURI(QString uri, SendCoinsRecipient *out)
 {
-    // Convert frozen:// to frozen:
+    // Convert bleuet:// to bleuet:
     //
-    //    Cannot handle this later, because frozen:// will cause Qt to see the part after // as host,
+    //    Cannot handle this later, because bleuet:// will cause Qt to see the part after // as host,
     //    which will lower-case it (and thus invalidate the address).
-    if(uri.startsWith("frozen://"))
+    if(uri.startsWith("bleuet://"))
     {
-        uri.replace(0, 10, "frozen:");
+        uri.replace(0, 10, "bleuet:");
     }
     QUrl uriInstance(uri);
     return parseBitcoinURI(uriInstance, out);
@@ -294,12 +294,12 @@ bool ToolTipToRichTextFilter::eventFilter(QObject *obj, QEvent *evt)
 #ifdef WIN32
 boost::filesystem::path static StartupShortcutPath()
 {
-    return GetSpecialFolderPath(CSIDL_STARTUP) / "Frozen.lnk";
+    return GetSpecialFolderPath(CSIDL_STARTUP) / "Bleuet.lnk";
 }
 
 bool GetStartOnSystemStartup()
 {
-    // check for Frozen.lnk
+    // check for Bleuet.lnk
     return boost::filesystem::exists(StartupShortcutPath());
 }
 
@@ -376,7 +376,7 @@ boost::filesystem::path static GetAutostartDir()
 
 boost::filesystem::path static GetAutostartFilePath()
 {
-    return GetAutostartDir() / "frozen.desktop";
+    return GetAutostartDir() / "bleuet.desktop";
 }
 
 bool GetStartOnSystemStartup()
@@ -414,10 +414,10 @@ bool SetStartOnSystemStartup(bool fAutoStart)
         boost::filesystem::ofstream optionFile(GetAutostartFilePath(), std::ios_base::out|std::ios_base::trunc);
         if (!optionFile.good())
             return false;
-        // Write a frozen.desktop file to the autostart directory:
+        // Write a bleuet.desktop file to the autostart directory:
         optionFile << "[Desktop Entry]\n";
         optionFile << "Type=Application\n";
-        optionFile << "Name=Frozen\n";
+        optionFile << "Name=Bleuet\n";
         optionFile << "Exec=" << pszExePath << " -min\n";
         optionFile << "Terminal=false\n";
         optionFile << "Hidden=false\n";
@@ -438,10 +438,10 @@ bool SetStartOnSystemStartup(bool fAutoStart) { return false; }
 HelpMessageBox::HelpMessageBox(QWidget *parent) :
     QMessageBox(parent)
 {
-    header = tr("Frozen-Qt") + " " + tr("version") + " " +
+    header = tr("Bleuet-Qt") + " " + tr("version") + " " +
         QString::fromStdString(FormatFullVersion()) + "\n\n" +
         tr("Usage:") + "\n" +
-        "  frozen-qt [" + tr("command-line options") + "]                     " + "\n";
+        "  bleuet-qt [" + tr("command-line options") + "]                     " + "\n";
 
     coreOptions = QString::fromStdString(HelpMessage());
 
@@ -450,7 +450,7 @@ HelpMessageBox::HelpMessageBox(QWidget *parent) :
         "  -min                   " + tr("Start minimized") + "\n" +
         "  -splash                " + tr("Show splash screen on startup (default: 1)") + "\n";
 
-    setWindowTitle(tr("Frozen-Qt"));
+    setWindowTitle(tr("Bleuet-Qt"));
     setTextFormat(Qt::PlainText);
     // setMinimumWidth is ignored for QMessageBox so put in non-breaking spaces to make it wider.
     setText(header + QString(QChar(0x2003)).repeated(50));

@@ -154,7 +154,7 @@ BOOST_AUTO_TEST_CASE(AlertApplies)
 }
 
 
-// FZ TODO: add alert functionality (including keys)
+// BLT TODO: add alert functionality (including keys)
 // This uses sh 'echo' to test the -alertnotify function, writing to a
 // /tmp file. So skip it on Windows:
 #ifndef WIN32

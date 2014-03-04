@@ -1,9 +1,9 @@
 Building Bitcoin
 
-See doc/readme-qt.rst for instructions on building Frozen-Qt,
+See doc/readme-qt.rst for instructions on building Bleuet-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Frozen.
+implementation of Bleuet.
 
-See doc/build-*.txt for instructions on building frozend,
+See doc/build-*.txt for instructions on building bleuetd,
 the intended-for-services, no-graphical-interface, reference
-implementation of Frozen.
+implementation of Bleuet.

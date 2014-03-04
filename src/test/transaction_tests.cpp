@@ -267,7 +267,7 @@ BOOST_AUTO_TEST_CASE(test_IsStandard)
     BOOST_CHECK(t.IsStandard());
 
     /*
-     * FZ TODO: need to reconsider the DUST concept for FZ due to small COIN!
+     * BLT TODO: need to reconsider the DUST concept for BLT due to small COIN!
      */
     t.vout[0].nValue = 51; // dust
     BOOST_CHECK(!t.IsStandard());

@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Frozen</source>
-        <translation>Info su Frozen</translation>
+        <source>About Bleuet</source>
+        <translation>Info su Bleuet</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Frozen&lt;/b&gt; version</source>
-        <translation>Versione di &lt;b&gt;Frozen&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Bleuet&lt;/b&gt; version</source>
+        <translation>Versione di &lt;b&gt;Bleuet&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+0"/>
-        <source>The Frozen developers</source>
-        <translation>Sviluppatori di Frozen</translation>
+        <source>The Bleuet developers</source>
+        <translation>Sviluppatori di Bleuet</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Frozen addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Questi sono i tuoi indirizzi Frozen per ricevere pagamenti. Potrai darne uno diverso ad ognuno per tenere così traccia di chi ti sta pagando.</translation>
+        <source>These are your Bleuet addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Questi sono i tuoi indirizzi Bleuet per ricevere pagamenti. Potrai darne uno diverso ad ognuno per tenere così traccia di chi ti sta pagando.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,7 +82,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Frozen address</source>
+        <source>Sign a message to prove you own a Bleuet address</source>
         <translation>Firma un messaggio per dimostrare di possedere questo indirizzo</translation>
     </message>
     <message>
@@ -107,8 +107,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Frozen address</source>
-        <translation>Verifica un messaggio per accertarsi che sia firmato con un indirizzo Frozen specifico</translation>
+        <source>Verify a message to ensure it was signed with a specified Bleuet address</source>
+        <translation>Verifica un messaggio per accertarsi che sia firmato con un indirizzo Bleuet specifico</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,7 +122,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Frozen addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Bleuet addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -138,7 +138,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     <message>
         <location line="+1"/>
         <source>Send &amp;Coins</source>
-        <translation>Invia &amp;Frozen</translation>
+        <translation>Invia &amp;Bleuet</translation>
     </message>
     <message>
         <location line="+260"/>
@@ -275,8 +275,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="-56"/>
-        <source>Frozen will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your frozens from being stolen by malware infecting your computer.</source>
-        <translation>Frozen verrà ora chiuso per finire il processo di crittazione. Ricorda che criptare il tuo portamonete non può fornire una protezione totale contro furti causati da malware che dovessero infettare il tuo computer.</translation>
+        <source>Bleuet will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bleuets from being stolen by malware infecting your computer.</source>
+        <translation>Bleuet verrà ora chiuso per finire il processo di crittazione. Ricorda che criptare il tuo portamonete non può fornire una protezione totale contro furti causati da malware che dovessero infettare il tuo computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Frozen</source>
-        <translation>Mostra informazioni su Frozen</translation>
+        <source>Show information about Bleuet</source>
+        <translation>Mostra informazioni su Bleuet</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Frozen address</source>
-        <translation>Invia monete ad un indirizzo frozen</translation>
+        <source>Send coins to a Bleuet address</source>
+        <translation>Invia monete ad un indirizzo bleuet</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Frozen</source>
-        <translation>Modifica configurazione opzioni per frozen</translation>
+        <source>Modify configuration options for Bleuet</source>
+        <translation>Modifica configurazione opzioni per bleuet</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Frozen</source>
-        <translation>Frozen</translation>
+        <source>Bleuet</source>
+        <translation>Bleuet</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Frozen</source>
-        <translation>&amp;Info su Frozen</translation>
+        <source>&amp;About Bleuet</source>
+        <translation>&amp;Info su Bleuet</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Frozen addresses to prove you own them</source>
-        <translation>Firma i messaggi con il tuo indirizzo Frozen per dimostrare di possederli</translation>
+        <source>Sign messages with your Bleuet addresses to prove you own them</source>
+        <translation>Firma i messaggi con il tuo indirizzo Bleuet per dimostrare di possederli</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Frozen addresses</source>
-        <translation>Verifica i messaggi per accertarsi che siano stati firmati con gli indirizzi Frozen specificati</translation>
+        <source>Verify messages to ensure they were signed with specified Bleuet addresses</source>
+        <translation>Verifica i messaggi per accertarsi che siano stati firmati con gli indirizzi Bleuet specificati</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+47"/>
-        <source>Frozen client</source>
-        <translation>Frozen client</translation>
+        <source>Bleuet client</source>
+        <translation>Bleuet client</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Frozen network</source>
-        <translation><numerusform>%n connessione attiva alla rete Frozen</numerusform><numerusform>%n connessioni attive alla rete Frozen</numerusform></translation>
+        <source>%n active connection(s) to Bleuet network</source>
+        <translation><numerusform>%n connessione attiva alla rete Bleuet</numerusform><numerusform>%n connessioni attive alla rete Bleuet</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -657,8 +657,8 @@ Indirizzo: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Frozen address or malformed URI parameters.</source>
-        <translation>Impossibile interpretare l&apos;URI! Ciò può essere causato da un indirizzo Frozen invalido o da parametri URI non corretti.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Bleuet address or malformed URI parameters.</source>
+        <translation>Impossibile interpretare l&apos;URI! Ciò può essere causato da un indirizzo Bleuet invalido o da parametri URI non corretti.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -672,8 +672,8 @@ Indirizzo: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Frozen can no longer continue safely and will quit.</source>
-        <translation>Riscontrato un errore irreversibile. Frozen non può più continuare in sicurezza e verrà terminato.</translation>
+        <source>A fatal error occurred. Bleuet can no longer continue safely and will quit.</source>
+        <translation>Riscontrato un errore irreversibile. Bleuet non può più continuare in sicurezza e verrà terminato.</translation>
     </message>
 </context>
 <context>
@@ -738,8 +738,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Frozen address.</source>
-        <translation>L&apos;indirizzo inserito &quot;%1&quot; non è un indirizzo frozen valido.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Bleuet address.</source>
+        <translation>L&apos;indirizzo inserito &quot;%1&quot; non è un indirizzo bleuet valido.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -757,8 +757,8 @@ Indirizzo: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Frozen-Qt</source>
-        <translation>Frozen-Qt</translation>
+        <source>Bleuet-Qt</source>
+        <translation>Bleuet-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -821,13 +821,13 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Frozen after logging in to the system.</source>
-        <translation>Avvia automaticamente Frozen all&apos;accensione del computer</translation>
+        <source>Automatically start Bleuet after logging in to the system.</source>
+        <translation>Avvia automaticamente Bleuet all&apos;accensione del computer</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Frozen on system login</source>
-        <translation>&amp;Fai partire Frozen all&apos;avvio del sistema</translation>
+        <source>&amp;Start Bleuet on system login</source>
+        <translation>&amp;Fai partire Bleuet all&apos;avvio del sistema</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -846,8 +846,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Frozen client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Apri automaticamente la porta del client Frozen sul router. Questo funziona solo se il router supporta UPnP ed è abilitato.</translation>
+        <source>Automatically open the Bleuet client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Apri automaticamente la porta del client Bleuet sul router. Questo funziona solo se il router supporta UPnP ed è abilitato.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -856,7 +856,7 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Frozen network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Bleuet network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>Connettiti alla rete Bitcon attraverso un proxy SOCKS (ad esempio quando ci si collega via Tor)</translation>
     </message>
     <message>
@@ -931,8 +931,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Frozen.</source>
-        <translation>La lingua dell&apos;interfaccia utente può essere impostata qui. L&apos;impostazione avrà effetto dopo il riavvio di Frozen.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Bleuet.</source>
+        <translation>La lingua dell&apos;interfaccia utente può essere impostata qui. L&apos;impostazione avrà effetto dopo il riavvio di Bleuet.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -946,8 +946,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Frozen addresses in the transaction list or not.</source>
-        <translation>Se mostrare l&apos;indirizzo Frozen nella transazione o meno.</translation>
+        <source>Whether to show Bleuet addresses in the transaction list or not.</source>
+        <translation>Se mostrare l&apos;indirizzo Bleuet nella transazione o meno.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -998,8 +998,8 @@ Indirizzo: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Frozen.</source>
-        <translation>L&apos;impostazione avrà effetto dopo il riavvio di Frozen.</translation>
+        <source>This setting will take effect after restarting Bleuet.</source>
+        <translation>L&apos;impostazione avrà effetto dopo il riavvio di Bleuet.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1017,8 +1017,8 @@ Indirizzo: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Frozen network after a connection is established, but this process has not completed yet.</source>
-        <translation>Le informazioni visualizzate sono datate. Il tuo partafogli verrà sincronizzato automaticamente con il network Frozen dopo che la connessione è stabilita, ma questo processo non può essere completato ora.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bleuet network after a connection is established, but this process has not completed yet.</source>
+        <translation>Le informazioni visualizzate sono datate. Il tuo partafogli verrà sincronizzato automaticamente con il network Bleuet dopo che la connessione è stabilita, ma questo processo non può essere completato ora.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1071,7 +1071,7 @@ Indirizzo: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start frozen: click-to-pay handler</source>
+        <source>Cannot start bleuet: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1221,8 +1221,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Frozen-Qt help message to get a list with possible Frozen command-line options.</source>
-        <translation>Mostra il messaggio di aiuto di Frozen-QT per avere la lista di tutte le opzioni della riga di comando di Frozen.</translation>
+        <source>Show the Bleuet-Qt help message to get a list with possible Bleuet command-line options.</source>
+        <translation>Mostra il messaggio di aiuto di Bleuet-QT per avere la lista di tutte le opzioni della riga di comando di Bleuet.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1241,12 +1241,12 @@ Indirizzo: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Frozen - Debug window</source>
-        <translation>Frozen - Finestra debug</translation>
+        <source>Bleuet - Debug window</source>
+        <translation>Bleuet - Finestra debug</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Frozen Core</source>
+        <source>Bleuet Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1256,8 +1256,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Frozen debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Apri il file di log del debug di Frozen dalla cartella attuale. Può richiedere alcuni secondi per file di log grandi.</translation>
+        <source>Open the Bleuet debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Apri il file di log del debug di Bleuet dalla cartella attuale. Può richiedere alcuni secondi per file di log grandi.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1266,8 +1266,8 @@ Indirizzo: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Frozen RPC console.</source>
-        <translation>Benvenuto nella console RPC di Frozen</translation>
+        <source>Welcome to the Bleuet RPC console.</source>
+        <translation>Benvenuto nella console RPC di Bleuet</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1292,7 +1292,7 @@ Indirizzo: %4
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Spedisci Frozen</translation>
+        <translation>Spedisci Bleuet</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1342,7 +1342,7 @@ Indirizzo: %4
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Conferma la spedizione di frozen</translation>
+        <translation>Conferma la spedizione di bleuet</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1387,7 +1387,7 @@ Indirizzo: %4
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Errore: la transazione è stata rifiutata. Ciò accade se alcuni frozen nel portamonete sono stati già spesi, ad esempio se è stata usata una copia del file wallet.dat e i frozen sono stati spesi dalla copia ma non segnati come spesi qui.</translation>
+        <translation>Errore: la transazione è stata rifiutata. Ciò accade se alcuni bleuet nel portamonete sono stati già spesi, ad esempio se è stata usata una copia del file wallet.dat e i bleuet sono stati spesi dalla copia ma non segnati come spesi qui.</translation>
     </message>
 </context>
 <context>
@@ -1450,8 +1450,8 @@ Indirizzo: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Frozen address (e.g. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</source>
-        <translation>Inserisci un indirizzo Frozen (ad esempio FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</translation>
+        <source>Enter a Bleuet address (e.g. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</source>
+        <translation>Inserisci un indirizzo Bleuet (ad esempio FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</translation>
     </message>
 </context>
 <context>
@@ -1474,7 +1474,7 @@ Indirizzo: %4
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</source>
-        <translation>Inserisci un indirizzo Frozen (ad esempio FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</translation>
+        <translation>Inserisci un indirizzo Bleuet (ad esempio FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1515,7 +1515,7 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Frozen address</source>
+        <source>Sign the message to prove you own this Bleuet address</source>
         <translation>Firma un messaggio per dimostrare di possedere questo indirizzo</translation>
     </message>
     <message>
@@ -1547,12 +1547,12 @@ Indirizzo: %4
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</source>
-        <translation>Inserisci un indirizzo Frozen (ad esempio FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</translation>
+        <translation>Inserisci un indirizzo Bleuet (ad esempio FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Frozen address</source>
-        <translation>Verifica il messaggio per assicurarsi che sia stato firmato con l&apos;indirizzo Frozen specificato</translation>
+        <source>Verify the message to ensure it was signed with the specified Bleuet address</source>
+        <translation>Verifica il messaggio per assicurarsi che sia stato firmato con l&apos;indirizzo Bleuet specificato</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1567,8 +1567,8 @@ Indirizzo: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Frozen address (e.g. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</source>
-        <translation>Inserisci un indirizzo Frozen (ad esempio FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</translation>
+        <source>Enter a Bleuet address (e.g. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</source>
+        <translation>Inserisci un indirizzo Bleuet (ad esempio FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1577,8 +1577,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Frozen signature</source>
-        <translation>Inserisci firma Frozen</translation>
+        <source>Enter Bleuet signature</source>
+        <translation>Inserisci firma Bleuet</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1598,7 +1598,7 @@ Indirizzo: %4
         <location line="-81"/>
         <location line="+81"/>
         <source>The entered address does not refer to a key.</source>
-        <translation>L&apos;indirizzo frozen inserito non è associato a nessuna chiave.</translation>
+        <translation>L&apos;indirizzo bleuet inserito non è associato a nessuna chiave.</translation>
     </message>
     <message>
         <location line="-73"/>
@@ -1651,8 +1651,8 @@ Indirizzo: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Frozen developers</source>
-        <translation>Sviluppatori di Frozen</translation>
+        <source>The Bleuet developers</source>
+        <translation>Sviluppatori di Bleuet</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1786,7 +1786,7 @@ Indirizzo: %4
     <message>
         <location line="+3"/>
         <source>Generated coins must mature 240 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Bisogna attendere 240 blocchi prima di spendere I frozen generati. Quando è stato generato questo blocco, è stato trasmesso alla rete per aggiungerlo alla catena di blocchi. Se non riesce a entrare nella catena, verrà modificato in &quot;non accettato&quot; e non sarà spendibile. Questo può accadere a volte, se un altro nodo genera un blocco entro pochi secondi del tuo.</translation>
+        <translation>Bisogna attendere 240 blocchi prima di spendere I bleuet generati. Quando è stato generato questo blocco, è stato trasmesso alla rete per aggiungerlo alla catena di blocchi. Se non riesce a entrare nella catena, verrà modificato in &quot;non accettato&quot; e non sarà spendibile. Questo può accadere a volte, se un altro nodo genera un blocco entro pochi secondi del tuo.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2139,7 +2139,7 @@ Indirizzo: %4
     <message>
         <location filename="../walletmodel.cpp" line="+193"/>
         <source>Send Coins</source>
-        <translation>Spedisci Frozen</translation>
+        <translation>Spedisci Bleuet</translation>
     </message>
 </context>
 <context>
@@ -2186,11 +2186,11 @@ Indirizzo: %4
     </message>
 </context>
 <context>
-    <name>frozen-core</name>
+    <name>bleuet-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Frozen version</source>
-        <translation>Versione di Frozen</translation>
+        <source>Bleuet version</source>
+        <translation>Versione di Bleuet</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2199,8 +2199,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or frozend</source>
-        <translation>Manda il comando a -server o frozend
+        <source>Send command to -server or bleuetd</source>
+        <translation>Manda il comando a -server o bleuetd
 </translation>
     </message>
     <message>
@@ -2223,14 +2223,14 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: frozen.conf)</source>
-        <translation>Specifica il file di configurazione (di default: frozen.conf)
+        <source>Specify configuration file (default: bleuet.conf)</source>
+        <translation>Specifica il file di configurazione (di default: bleuet.conf)
 </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: frozend.pid)</source>
-        <translation>Specifica il file pid (default: frozend.pid)
+        <source>Specify pid file (default: bleuetd.pid)</source>
+        <translation>Specifica il file pid (default: bleuetd.pid)
 </translation>
     </message>
     <message>
@@ -2312,13 +2312,13 @@ Indirizzo: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=frozenrpc
+rpcuser=bleuetrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Frozen Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Bleuet Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2334,13 +2334,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Frozen Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Frozen is probably already running.</source>
-        <translation>Non è possibile ottenere i dati sulla cartella %s. Probabilmente Frozen è già in esecuzione.</translation>
+        <source>Cannot obtain a lock on data directory %s. Bleuet is probably already running.</source>
+        <translation>Non è possibile ottenere i dati sulla cartella %s. Probabilmente Bleuet è già in esecuzione.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Error: The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Errore: la transazione è stata rifiutata. Ciò accade se alcuni frozen nel portamonete sono stati già spesi, ad esempio se è stata usata una copia del file wallet.dat e i frozen sono stati spesi dalla copia ma non segnati come spesi qui.</translation>
+        <translation>Errore: la transazione è stata rifiutata. Ciò accade se alcuni bleuet nel portamonete sono stati già spesi, ad esempio se è stata usata una copia del file wallet.dat e i bleuet sono stati spesi dalla copia ma non segnati come spesi qui.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2379,8 +2379,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Frozen Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Frozen will not work properly.</source>
-        <translation>Attenzione: si prega di controllare che la data del computer e l&apos;ora siano corrette. Se il vostro orologio è sbagliato Frozen non funziona correttamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Bleuet will not work properly.</source>
+        <translation>Attenzione: si prega di controllare che la data del computer e l&apos;ora siano corrette. Se il vostro orologio è sbagliato Bleuet non funziona correttamente.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2500,7 +2500,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Frozen Alert&quot; admin@foo.c
     <message>
         <location line="+1"/>
         <source>Failed to write to coin database</source>
-        <translation>Scrittura nel database dei frozen fallita</translation>
+        <translation>Scrittura nel database dei bleuet fallita</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2629,8 +2629,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Frozen Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Frozen Wiki for SSL setup instructions)</source>
-        <translation>Opzioni SSL: (vedi il wiki di Frozen per le istruzioni di configurazione SSL)</translation>
+        <source>SSL options: (see the Bleuet Wiki for SSL setup instructions)</source>
+        <translation>Opzioni SSL: (vedi il wiki di Bleuet per le istruzioni di configurazione SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2831,13 +2831,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Frozen Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Frozen</source>
-        <translation>Errore caricamento wallet.dat: il wallet richiede una versione nuova di Frozen</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Bleuet</source>
+        <translation>Errore caricamento wallet.dat: il wallet richiede una versione nuova di Bleuet</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Frozen to complete</source>
-        <translation>Il portamonete deve essere riscritto: riavviare Frozen per completare</translation>
+        <source>Wallet needed to be rewritten: restart Bleuet to complete</source>
+        <translation>Il portamonete deve essere riscritto: riavviare Bleuet per completare</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2896,8 +2896,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Frozen Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Frozen is probably already running.</source>
-        <translation>Impossibile collegarsi alla %s su questo computer. Probabilmente Frozen è già in esecuzione.</translation>
+        <source>Unable to bind to %s on this computer. Bleuet is probably already running.</source>
+        <translation>Impossibile collegarsi alla %s su questo computer. Probabilmente Bleuet è già in esecuzione.</translation>
     </message>
     <message>
         <location line="+64"/>

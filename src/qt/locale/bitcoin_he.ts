@@ -4,12 +4,12 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Frozen</source>
+        <source>About Bleuet</source>
         <translation>אודות ביטקוין</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Frozen&lt;/b&gt; version</source>
+        <source>&lt;b&gt;Bleuet&lt;/b&gt; version</source>
         <translation>גרסת &lt;b&gt;ביטקוין&lt;/b&gt;</translation>
     </message>
     <message>
@@ -34,7 +34,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Frozen developers</source>
+        <source>The Bleuet developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -67,7 +67,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Frozen addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Bleuet addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>אלה כתובת הביטקוין שלך עבור קבלת תשלומים. ייתכן ותרצה לתת כתובת שונה לכל שולח כדי שתוכל לעקוב אחר מי משלם לך.</translation>
     </message>
     <message>
@@ -82,7 +82,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Frozen address</source>
+        <source>Sign a message to prove you own a Bleuet address</source>
         <translation>חתום על הודעה בכדי להוכיח כי אתה הבעלים של כתובת ביטקוין.</translation>
     </message>
     <message>
@@ -107,7 +107,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Frozen address</source>
+        <source>Verify a message to ensure it was signed with a specified Bleuet address</source>
         <translation>אמת הודעה בכדי להבטיח שהיא נחתמה עם כתובת ביטקוין מסוימת.</translation>
     </message>
     <message>
@@ -122,7 +122,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Frozen addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Bleuet addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>אלה כתובת הביטקוין שלך עבור שליחת תשלומים. תמיד בדוק את מספר ואת כתובות מקבלי התשלומים לפני שליחת מטבעות.</translation>
     </message>
     <message>
@@ -275,7 +275,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Frozen will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your frozens from being stolen by malware infecting your computer.</source>
+        <source>Bleuet will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bleuets from being stolen by malware infecting your computer.</source>
         <translation>ביטקוין ייסגר עכשיו כדי להשלים את תהליך ההצפנה. זכור שהצפנת הארנק שלך אינו יכול להגן באופן מלא על הביטקוינים שלך מתוכנות זדוניות המושתלות על המחשב.</translation>
     </message>
     <message>
@@ -374,7 +374,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Frozen</source>
+        <source>Show information about Bleuet</source>
         <translation>הצג מידע על ביטקוין</translation>
     </message>
     <message>
@@ -419,12 +419,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Frozen address</source>
+        <source>Send coins to a Bleuet address</source>
         <translation>שלח מטבעות לכתובת ביטקוין</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Frozen</source>
+        <source>Modify configuration options for Bleuet</source>
         <translation>שנה אפשרויות תצורה עבור ביטקוין</translation>
     </message>
     <message>
@@ -455,7 +455,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Frozen</source>
+        <source>Bleuet</source>
         <translation>ביטקוין</translation>
     </message>
     <message>
@@ -480,7 +480,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Frozen</source>
+        <source>&amp;About Bleuet</source>
         <translation>אודות ביטקוין</translation>
     </message>
     <message>
@@ -500,12 +500,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Frozen addresses to prove you own them</source>
+        <source>Sign messages with your Bleuet addresses to prove you own them</source>
         <translation>חתום על הודעות עם כתובות הביטקוין שלך כדי להוכיח שהן בבעלותך</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Frozen addresses</source>
+        <source>Verify messages to ensure they were signed with specified Bleuet addresses</source>
         <translation>אמת הודעות כדי להבטיח שהן נחתמו עם כתובת ביטקוין מסוימות</translation>
     </message>
     <message>
@@ -536,12 +536,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>Frozen client</source>
+        <source>Bleuet client</source>
         <translation>תוכנת ביטקוין</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Frozen network</source>
+        <source>%n active connection(s) to Bleuet network</source>
         <translation><numerusform>חיבור פעיל אחד לרשת הביטקוין</numerusform><numerusform>%n חיבורים פעילים לרשת הביטקוין</numerusform></translation>
     </message>
     <message>
@@ -655,7 +655,7 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Frozen address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Bleuet address or malformed URI parameters.</source>
         <translation>לא ניתן לנתח URI! זה יכול להיגרם כתוצאה מכתובת ביטקוין לא תקינה או פרמטרי URI חסרי צורה תקינה.</translation>
     </message>
     <message>
@@ -670,7 +670,7 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Frozen can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Bleuet can no longer continue safely and will quit.</source>
         <translation>שגיאה סופנית אירעה. ביטקוין אינו יכול להמשיך לפעול בבטחה ולכן ייסגר.</translation>
     </message>
 </context>
@@ -736,7 +736,7 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Frozen address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid Bleuet address.</source>
         <translation>הכתובת שהוכנסה &quot;%1&quot; אינה כתובת ביטקוין תקינה.</translation>
     </message>
     <message>
@@ -755,8 +755,8 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Frozen-Qt</source>
-        <translation>Frozen-Qt</translation>
+        <source>Bleuet-Qt</source>
+        <translation>Bleuet-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -818,12 +818,12 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Frozen after logging in to the system.</source>
+        <source>Automatically start Bleuet after logging in to the system.</source>
         <translation>הפעל את ביטקוין באופן עצמאי לאחר התחברות למערכת.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Frozen on system login</source>
+        <source>&amp;Start Bleuet on system login</source>
         <translation>התחל את ביטקוין בעת התחברות למערכת</translation>
     </message>
     <message>
@@ -843,7 +843,7 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Frozen client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Bleuet client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>פתח את פורט ביטקוין בנתב באופן אוטומטי. עובד רק אם UPnP מאופשר ונתמך ע&quot;י הנתב.</translation>
     </message>
     <message>
@@ -853,7 +853,7 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Frozen network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Bleuet network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>התחבר לרשת הביטקוין דרך פרוקסי SOCKS (למשל בעת התחברות דרך Tor).</translation>
     </message>
     <message>
@@ -928,7 +928,7 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Frozen.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Bleuet.</source>
         <translation>ניתן לקבוע כאן את שפת ממשק המשתמש. הגדרה זו תחול לאחר הפעלה מחדש של ביטקוין.</translation>
     </message>
     <message>
@@ -943,7 +943,7 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Frozen addresses in the transaction list or not.</source>
+        <source>Whether to show Bleuet addresses in the transaction list or not.</source>
         <translation>האם להציג כתובות ביטקוין ברשימת הפעולות או לא.</translation>
     </message>
     <message>
@@ -995,7 +995,7 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Frozen.</source>
+        <source>This setting will take effect after restarting Bleuet.</source>
         <translation>הגדרה זו תחול לאחר הפעלה מחדש של ביטקוין.</translation>
     </message>
     <message>
@@ -1014,7 +1014,7 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Frozen network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bleuet network after a connection is established, but this process has not completed yet.</source>
         <translation>המידע המוצג עשוי להיות מיושן. הארנק שלך מסתנכרן באופן אוטומטי עם רשת הביטקוין לאחר כינון חיבור, אך התהליך טרם הסתיים.</translation>
     </message>
     <message>
@@ -1068,7 +1068,7 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start frozen: click-to-pay handler</source>
+        <source>Cannot start bleuet: click-to-pay handler</source>
         <translation>לא ניתן להתחיל את ביטקוין: מפעיל לחץ-לתשלום </translation>
     </message>
 </context>
@@ -1218,8 +1218,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Frozen-Qt help message to get a list with possible Frozen command-line options.</source>
-        <translation>הצג את הודעה העזרה של frozen-qt כדי לקבל רשימה של אפשרויות שורת פקודה של ביטקוין.</translation>
+        <source>Show the Bleuet-Qt help message to get a list with possible Bleuet command-line options.</source>
+        <translation>הצג את הודעה העזרה של bleuet-qt כדי לקבל רשימה של אפשרויות שורת פקודה של ביטקוין.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1238,12 +1238,12 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Frozen - Debug window</source>
+        <source>Bleuet - Debug window</source>
         <translation>ביטקוין - חלון ניפוי</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Frozen Core</source>
+        <source>Bleuet Core</source>
         <translation>ליבת ביטקוין</translation>
     </message>
     <message>
@@ -1253,7 +1253,7 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Frozen debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Bleuet debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>פתח את קובץ יומן הניפוי מתיקיית הנתונים הנוכחית. זה עשוי לקחת מספר שניות עבור קובצי יומן גדולים.</translation>
     </message>
     <message>
@@ -1263,7 +1263,7 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Frozen RPC console.</source>
+        <source>Welcome to the Bleuet RPC console.</source>
         <translation>ברוכים הבאים ללוח בקרת RPC של ביטקוין</translation>
     </message>
     <message>
@@ -1447,7 +1447,7 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Frozen address (e.g. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</source>
+        <source>Enter a Bleuet address (e.g. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</source>
         <translation>הכנס כתובת ביטקוין (למשל FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</translation>
     </message>
 </context>
@@ -1512,7 +1512,7 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Frozen address</source>
+        <source>Sign the message to prove you own this Bleuet address</source>
         <translation>חתום על ההודעה כדי להוכיח שכתובת הביטקוין הזו בבעלותך.</translation>
     </message>
     <message>
@@ -1548,7 +1548,7 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Frozen address</source>
+        <source>Verify the message to ensure it was signed with the specified Bleuet address</source>
         <translation>אמת את ההודעה כדי להבטיח שהיא נחתמה עם כתובת הביטקוין הנתונה</translation>
     </message>
     <message>
@@ -1564,7 +1564,7 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Frozen address (e.g. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</source>
+        <source>Enter a Bleuet address (e.g. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</source>
         <translation>הכנס כתובת ביטקוין (למשל FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</translation>
     </message>
     <message>
@@ -1574,7 +1574,7 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Frozen signature</source>
+        <source>Enter Bleuet signature</source>
         <translation>הכנס חתימת ביטקוין</translation>
     </message>
     <message>
@@ -1648,7 +1648,7 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Frozen developers</source>
+        <source>The Bleuet developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2183,10 +2183,10 @@ Address: %4
     </message>
 </context>
 <context>
-    <name>frozen-core</name>
+    <name>bleuet-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Frozen version</source>
+        <source>Bleuet version</source>
         <translation>גרסת ביטקוין</translation>
     </message>
     <message>
@@ -2196,8 +2196,8 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or frozend</source>
-        <translation>שלח פקודה ל -server או frozend</translation>
+        <source>Send command to -server or bleuetd</source>
+        <translation>שלח פקודה ל -server או bleuetd</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2216,13 +2216,13 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: frozen.conf)</source>
-        <translation>ציין קובץ הגדרות (ברירת מחדל: frozen.conf)</translation>
+        <source>Specify configuration file (default: bleuet.conf)</source>
+        <translation>ציין קובץ הגדרות (ברירת מחדל: bleuet.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: frozend.pid)</source>
-        <translation>ציין קובץ pid (ברירת מחדל: frozend.pid)</translation>
+        <source>Specify pid file (default: bleuetd.pid)</source>
+        <translation>ציין קובץ pid (ברירת מחדל: bleuetd.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2299,24 +2299,24 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=frozenrpc
+rpcuser=bleuetrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Frozen Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Bleuet Alert&quot; admin@foo.com
 </source>
         <translation>%s, עליך לקבוע סיסמת RPC בקובץ הקונפיגורציה:
  %s
 מומלץ להשתמש בסיסמא האקראית הבאה:
-rpcuser=frozenrpc
+rpcuser=bleuetrpc
 rpcpassword=%s
 (אין צורך לזכור את הסיסמה)
 אסור ששם המשתמש והסיסמא יהיו זהים.
 אם הקובץ אינו קיים, צור אותו עם הרשאות קריאה לבעלים בלבד.
 זה מומלץ לסמן alertnotify כדי לקבל דיווח על תקלות;
-למשל: alertnotify=echo %%s | mail -s &quot;Frozen Alert&quot; admin@foo.com 
+למשל: alertnotify=echo %%s | mail -s &quot;Bleuet Alert&quot; admin@foo.com 
 </translation>
     </message>
     <message>
@@ -2331,7 +2331,7 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Frozen is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Bleuet is probably already running.</source>
         <translation>לא מסוגל להשיג נעילה על תיקיית הנתונים %s. כנראה שביטקוין כבר רץ.</translation>
     </message>
     <message>
@@ -2376,7 +2376,7 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Frozen will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Bleuet will not work properly.</source>
         <translation>אזהרה: אנא בדוק שהתאריך והשעה של המחשב שלך נכונים! אם השעון שלך אינו נכון ביטקוין לא יעבוד כראוי.</translation>
     </message>
     <message>
@@ -2626,7 +2626,7 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Frozen Wiki for SSL setup instructions)</source>
+        <source>SSL options: (see the Bleuet Wiki for SSL setup instructions)</source>
         <translation>אפשרויות SSL: (ראה את הויקי של ביטקוין עבור הוראות הגדרת SSL)</translation>
     </message>
     <message>
@@ -2816,12 +2816,12 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Frozen</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Bleuet</source>
         <translation>שגיאה בטעינת הקובץ wallet.dat: הארנק דורש גרסה חדשה יותר של ביטקוין</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Frozen to complete</source>
+        <source>Wallet needed to be rewritten: restart Bleuet to complete</source>
         <translation>יש לכתוב מחדש את הארנק: אתחל את ביטקוין לסיום</translation>
     </message>
     <message>
@@ -2881,7 +2881,7 @@ rpcpassword=%s
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Frozen is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Bleuet is probably already running.</source>
         <translation>לא ניתן לקשור ל-%s במחשב זה. ביטקוין כנראה עדיין רץ.</translation>
     </message>
     <message>

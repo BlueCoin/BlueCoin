@@ -128,7 +128,7 @@ BOOST_AUTO_TEST_CASE(rpc_rawparams)
     BOOST_CHECK_THROW(CallRPC(string("sendrawtransaction ")+rawtx+" extra"), runtime_error);
 }
 
-#if 0 // FZ TODO adapt to FZ
+#if 0 // BLT TODO adapt to BLT
 BOOST_AUTO_TEST_CASE(rpc_rawsign)
 {
     Value r;

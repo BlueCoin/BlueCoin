@@ -41,9 +41,9 @@ then execute the following:
     qmake
     make
 
-Alternatively, install `Qt Creator`_ and open the `frozen-qt.pro` file.
+Alternatively, install `Qt Creator`_ and open the `bleuet-qt.pro` file.
 
-An executable named `frozen-qt` will be built.
+An executable named `bleuet-qt` will be built.
 
 .. _`Qt Creator`: http://qt-project.org/downloads/
 

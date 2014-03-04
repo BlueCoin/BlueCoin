@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Frozen</source>
-        <translation>Frozenist</translation>
+        <source>About Bleuet</source>
+        <translation>Bleuetist</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Frozen&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Frozeni&lt;/b&gt; versioon</translation>
+        <source>&lt;b&gt;Bleuet&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Bleueti&lt;/b&gt; versioon</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,7 +34,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+0"/>
-        <source>The Frozen developers</source>
+        <source>The Bleuet developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -67,8 +67,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Frozen addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Maksete saamiseks kasutatavad Frozeni aadressid. Maksjate paremaks jälgimiseks võib igaühele anda erineva.</translation>
+        <source>These are your Bleuet addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Maksete saamiseks kasutatavad Bleueti aadressid. Maksjate paremaks jälgimiseks võib igaühele anda erineva.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,7 +82,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Frozen address</source>
+        <source>Sign a message to prove you own a Bleuet address</source>
         <translation>Allkirjasta sõnum, et tõestada Bitconi aadressi olemasolu.</translation>
     </message>
     <message>
@@ -107,8 +107,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Frozen address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Frozeni aadressiga.</translation>
+        <source>Verify a message to ensure it was signed with a specified Bleuet address</source>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Bleueti aadressiga.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Frozen addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Need on sinu Frozeni aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
+        <source>These are your Bleuet addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Need on sinu Bleueti aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-56"/>
-        <source>Frozen will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your frozens from being stolen by malware infecting your computer.</source>
-        <translation>Frozen sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista frozenide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
+        <source>Bleuet will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bleuets from being stolen by malware infecting your computer.</source>
+        <translation>Bleuet sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista bleuetide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Frozen</source>
-        <translation>Kuva info Frozeni kohta</translation>
+        <source>Show information about Bleuet</source>
+        <translation>Kuva info Bleueti kohta</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Frozen address</source>
-        <translation>Saada münte Frozeni aadressile</translation>
+        <source>Send coins to a Bleuet address</source>
+        <translation>Saada münte Bleueti aadressile</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Frozen</source>
-        <translation>Muuda Frozeni seadeid</translation>
+        <source>Modify configuration options for Bleuet</source>
+        <translation>Muuda Bleueti seadeid</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Frozen</source>
-        <translation>Frozen</translation>
+        <source>Bleuet</source>
+        <translation>Bleuet</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Frozen</source>
-        <translation>%Frozenist</translation>
+        <source>&amp;About Bleuet</source>
+        <translation>%Bleuetist</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Frozen addresses to prove you own them</source>
-        <translation>Omandi tõestamiseks allkirjasta sõnumid oma Frozeni aadressiga</translation>
+        <source>Sign messages with your Bleuet addresses to prove you own them</source>
+        <translation>Omandi tõestamiseks allkirjasta sõnumid oma Bleueti aadressiga</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Frozen addresses</source>
-        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Frozeni aadressiga</translation>
+        <source>Verify messages to ensure they were signed with specified Bleuet addresses</source>
+        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Bleueti aadressiga</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+47"/>
-        <source>Frozen client</source>
-        <translation>Frozeni klient</translation>
+        <source>Bleuet client</source>
+        <translation>Bleueti klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Frozen network</source>
-        <translation><numerusform>%n aktiivne ühendus Frozeni võrku</numerusform><numerusform>%n aktiivset ühendust Frozeni võrku</numerusform></translation>
+        <source>%n active connection(s) to Bleuet network</source>
+        <translation><numerusform>%n aktiivne ühendus Bleueti võrku</numerusform><numerusform>%n aktiivset ühendust Bleueti võrku</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -655,8 +655,8 @@ Aadress: %4⏎</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Frozen address or malformed URI parameters.</source>
-        <translation>URI ei suudeta parsida. Põhjuseks võib olla kehtetu Frozeni aadress või vigased URI parameetrid.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Bleuet address or malformed URI parameters.</source>
+        <translation>URI ei suudeta parsida. Põhjuseks võib olla kehtetu Bleueti aadress või vigased URI parameetrid.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -670,8 +670,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Frozen can no longer continue safely and will quit.</source>
-        <translation>Ilmnes kriitiline tõrge. Frozen suletakse turvakaalutluste tõttu.</translation>
+        <source>A fatal error occurred. Bleuet can no longer continue safely and will quit.</source>
+        <translation>Ilmnes kriitiline tõrge. Bleuet suletakse turvakaalutluste tõttu.</translation>
     </message>
 </context>
 <context>
@@ -736,8 +736,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Frozen address.</source>
-        <translation>Sisestatud aadress &quot;%1&quot; ei ole Frozenis kehtiv.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Bleuet address.</source>
+        <translation>Sisestatud aadress &quot;%1&quot; ei ole Bleuetis kehtiv.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -755,8 +755,8 @@ Aadress: %4⏎</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Frozen-Qt</source>
-        <translation>Frozeni-Qt</translation>
+        <source>Bleuet-Qt</source>
+        <translation>Bleueti-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -818,13 +818,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Frozen after logging in to the system.</source>
-        <translation>Käivita Frozen süsteemi logimisel.</translation>
+        <source>Automatically start Bleuet after logging in to the system.</source>
+        <translation>Käivita Bleuet süsteemi logimisel.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Frozen on system login</source>
-        <translation>&amp;Start Frozen sisselogimisel</translation>
+        <source>&amp;Start Bleuet on system login</source>
+        <translation>&amp;Start Bleuet sisselogimisel</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -843,8 +843,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Frozen client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Frozeni kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
+        <source>Automatically open the Bleuet client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Bleueti kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -853,8 +853,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Frozen network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Kasuta Frozeni võrgustikku ühendumiseks SOCKS turva proxy&apos;t (nt Tor&apos;i kasutamisel).</translation>
+        <source>Connect to the Bleuet network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Kasuta Bleueti võrgustikku ühendumiseks SOCKS turva proxy&apos;t (nt Tor&apos;i kasutamisel).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -928,8 +928,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Frozen.</source>
-        <translation>Kasutajaliidese keele valimise koht. Valik rakendub Frozeni käivitamisel.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Bleuet.</source>
+        <translation>Kasutajaliidese keele valimise koht. Valik rakendub Bleueti käivitamisel.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -943,8 +943,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Frozen addresses in the transaction list or not.</source>
-        <translation>Kuvada Frozeni aadress tehingute loetelus või mitte.</translation>
+        <source>Whether to show Bleuet addresses in the transaction list or not.</source>
+        <translation>Kuvada Bleueti aadress tehingute loetelus või mitte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -995,8 +995,8 @@ Aadress: %4⏎</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Frozen.</source>
-        <translation>Tehtud valik rakendub Frozeni käivitamisel.</translation>
+        <source>This setting will take effect after restarting Bleuet.</source>
+        <translation>Tehtud valik rakendub Bleueti käivitamisel.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1014,7 +1014,7 @@ Aadress: %4⏎</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Frozen network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bleuet network after a connection is established, but this process has not completed yet.</source>
         <translation>Kuvatav info ei pruugi olla ajakohane. Ühenduse loomisel süngitakse sinu rahakott automaatselt Bitconi võrgustikuga, kuid see toiming on hetkel lõpetamata.</translation>
     </message>
     <message>
@@ -1068,8 +1068,8 @@ Aadress: %4⏎</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start frozen: click-to-pay handler</source>
-        <translation>Frozen ei käivitu: vajuta-maksa toiming</translation>
+        <source>Cannot start bleuet: click-to-pay handler</source>
+        <translation>Bleuet ei käivitu: vajuta-maksa toiming</translation>
     </message>
 </context>
 <context>
@@ -1218,8 +1218,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Frozen-Qt help message to get a list with possible Frozen command-line options.</source>
-        <translation>Näita kehtivate käsurea valikute kuvamiseks Frozeni-Qt abiteksti</translation>
+        <source>Show the Bleuet-Qt help message to get a list with possible Bleuet command-line options.</source>
+        <translation>Näita kehtivate käsurea valikute kuvamiseks Bleueti-Qt abiteksti</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1238,13 +1238,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Frozen - Debug window</source>
-        <translation>Frozen - debugimise aken</translation>
+        <source>Bleuet - Debug window</source>
+        <translation>Bleuet - debugimise aken</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Frozen Core</source>
-        <translation>Frozeni tuumik</translation>
+        <source>Bleuet Core</source>
+        <translation>Bleueti tuumik</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1253,8 +1253,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Frozen debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ava Frozeni logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
+        <source>Open the Bleuet debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ava Bleueti logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1263,8 +1263,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Frozen RPC console.</source>
-        <translation>Teretulemast Frozeni RPC konsooli.</translation>
+        <source>Welcome to the Bleuet RPC console.</source>
+        <translation>Teretulemast Bleueti RPC konsooli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1447,8 +1447,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Frozen address (e.g. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</source>
-        <translation>Sisesta Frozeni aadress (nt: FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</translation>
+        <source>Enter a Bleuet address (e.g. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</source>
+        <translation>Sisesta Bleueti aadress (nt: FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</translation>
     </message>
 </context>
 <context>
@@ -1512,8 +1512,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Frozen address</source>
-        <translation>Allkirjasta sõnum Frozeni aadressi sulle kuulumise tõestamiseks</translation>
+        <source>Sign the message to prove you own this Bleuet address</source>
+        <translation>Allkirjasta sõnum Bleueti aadressi sulle kuulumise tõestamiseks</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1548,8 +1548,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Frozen address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Frozeni aadressiga.</translation>
+        <source>Verify the message to ensure it was signed with the specified Bleuet address</source>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Bleueti aadressiga.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1564,8 +1564,8 @@ Aadress: %4⏎</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Frozen address (e.g. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</source>
-        <translation>Sisesta Frozeni aadress (nt: FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</translation>
+        <source>Enter a Bleuet address (e.g. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</source>
+        <translation>Sisesta Bleueti aadress (nt: FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1574,8 +1574,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Frozen signature</source>
-        <translation>Sisesta Frozeni allkiri</translation>
+        <source>Enter Bleuet signature</source>
+        <translation>Sisesta Bleueti allkiri</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1648,7 +1648,7 @@ Aadress: %4⏎</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Frozen developers</source>
+        <source>The Bleuet developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2183,11 +2183,11 @@ Aadress: %4⏎</translation>
     </message>
 </context>
 <context>
-    <name>frozen-core</name>
+    <name>bleuet-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Frozen version</source>
-        <translation>Frozeni versioon</translation>
+        <source>Bleuet version</source>
+        <translation>Bleueti versioon</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2196,8 +2196,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or frozend</source>
-        <translation>Saada käsklus -serverile või frozendile</translation>
+        <source>Send command to -server or bleuetd</source>
+        <translation>Saada käsklus -serverile või bleuetdile</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2216,13 +2216,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: frozen.conf)</source>
-        <translation>Täpsusta sätete fail (vaikimisi: frozen.conf)</translation>
+        <source>Specify configuration file (default: bleuet.conf)</source>
+        <translation>Täpsusta sätete fail (vaikimisi: bleuet.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: frozend.pid)</source>
-        <translation>Täpsusta PID fail (vaikimisi: frozen.pid)</translation>
+        <source>Specify pid file (default: bleuetd.pid)</source>
+        <translation>Täpsusta PID fail (vaikimisi: bleuet.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2299,24 +2299,24 @@ Aadress: %4⏎</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=frozenrpc
+rpcuser=bleuetrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Frozen Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Bleuet Alert&quot; admin@foo.com
 </source>
         <translation>%s, sul tuleb rpcpassword määrata seadete failis:
 %s
 Soovitatav on kasutada järgmist juhuslikku parooli:
-rpcuser=frozenrpc
+rpcuser=bleuetrpc
 rpcpassword=%s
 (seda parooli ei pea meeles pidama)
 Kasutajanimi ning parool EI TOHI kattuda.
 Kui faili ei leita, loo see ainult-omaniku-loetavas failiõigustes .
 Soovitatav on seadistada tõrgete puhul teavitus;
-nt: alertnotify=echo %%s | email -s &quot;Frozen Alert&quot; admin@foo.com
+nt: alertnotify=echo %%s | email -s &quot;Bleuet Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2331,8 +2331,8 @@ nt: alertnotify=echo %%s | email -s &quot;Frozen Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Frozen is probably already running.</source>
-        <translation>Ei suuda määrata ainuõigust andmekaustale %s. Tõenäolisel on Frozen juba avatud.</translation>
+        <source>Cannot obtain a lock on data directory %s. Bleuet is probably already running.</source>
+        <translation>Ei suuda määrata ainuõigust andmekaustale %s. Tõenäolisel on Bleuet juba avatud.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2376,8 +2376,8 @@ nt: alertnotify=echo %%s | email -s &quot;Frozen Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Frozen will not work properly.</source>
-        <translation>Hoiatus: Palun kontrolli oma arvuti kuupäeva/kellaaega! Kui arvuti kell on vale, siis Frozen ei tööta korralikult</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Bleuet will not work properly.</source>
+        <translation>Hoiatus: Palun kontrolli oma arvuti kuupäeva/kellaaega! Kui arvuti kell on vale, siis Bleuet ei tööta korralikult</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2626,8 +2626,8 @@ nt: alertnotify=echo %%s | email -s &quot;Frozen Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Frozen Wiki for SSL setup instructions)</source>
-        <translation>SSL valikud: (vaata Frozeni Wikist või SSL sätete juhendist)</translation>
+        <source>SSL options: (see the Bleuet Wiki for SSL setup instructions)</source>
+        <translation>SSL valikud: (vaata Bleueti Wikist või SSL sätete juhendist)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2816,13 +2816,13 @@ nt: alertnotify=echo %%s | email -s &quot;Frozen Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Frozen</source>
-        <translation>Viga wallet.dat käivitamisel: Rahakott nõuab Frozeni uusimat versiooni</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Bleuet</source>
+        <translation>Viga wallet.dat käivitamisel: Rahakott nõuab Bleueti uusimat versiooni</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Frozen to complete</source>
-        <translation>Rahakott tuli ümberkirjutada: toimingu lõpetamiseks taaskäivita Frozen</translation>
+        <source>Wallet needed to be rewritten: restart Bleuet to complete</source>
+        <translation>Rahakott tuli ümberkirjutada: toimingu lõpetamiseks taaskäivita Bleuet</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2881,8 +2881,8 @@ nt: alertnotify=echo %%s | email -s &quot;Frozen Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Frozen is probably already running.</source>
-        <translation>%s&apos;ga ei ole võimalik sellest arvutist siduda. Frozen juba töötab.</translation>
+        <source>Unable to bind to %s on this computer. Bleuet is probably already running.</source>
+        <translation>%s&apos;ga ei ole võimalik sellest arvutist siduda. Bleuet juba töötab.</translation>
     </message>
     <message>
         <location line="+64"/>

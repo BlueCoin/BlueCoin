@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Frozen</source>
-        <translation>Om Frozen</translation>
+        <source>About Bleuet</source>
+        <translation>Om Bleuet</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Frozen&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Frozen&lt;/b&gt;-version</translation>
+        <source>&lt;b&gt;Bleuet&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Bleuet&lt;/b&gt;-version</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -35,8 +35,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+0"/>
-        <source>The Frozen developers</source>
-        <translation>Frozen-utvecklarna</translation>
+        <source>The Bleuet developers</source>
+        <translation>Bleuet-utvecklarna</translation>
     </message>
 </context>
 <context>
@@ -68,8 +68,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Frozen addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Detta är dina Frozen-adresser för att ta emot betalningar.  Du kan ge varje avsändare en egen adress så att du kan hålla reda på vem som betalar dig.</translation>
+        <source>These are your Bleuet addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Detta är dina Bleuet-adresser för att ta emot betalningar.  Du kan ge varje avsändare en egen adress så att du kan hålla reda på vem som betalar dig.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -83,7 +83,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Frozen address</source>
+        <source>Sign a message to prove you own a Bleuet address</source>
         <translation>Signera ett meddelande för att bevisa att du äger denna adress</translation>
     </message>
     <message>
@@ -108,8 +108,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Frozen address</source>
-        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den specificerade Frozen-adressen</translation>
+        <source>Verify a message to ensure it was signed with a specified Bleuet address</source>
+        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den specificerade Bleuet-adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -123,8 +123,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Frozen addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Detta är dina Frozen adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickar Frozen.</translation>
+        <source>These are your Bleuet addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Detta är dina Bleuet adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickar Bleuet.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -139,7 +139,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+1"/>
         <source>Send &amp;Coins</source>
-        <translation>Skicka &amp;Frozen</translation>
+        <translation>Skicka &amp;Bleuet</translation>
     </message>
     <message>
         <location line="+260"/>
@@ -276,7 +276,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-56"/>
-        <source>Frozen will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your frozens from being stolen by malware infecting your computer.</source>
+        <source>Bleuet will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bleuets from being stolen by malware infecting your computer.</source>
         <translation>Programmet kommer nu att stänga ner för att färdigställa krypteringen. Tänk på att en krypterad plånbok inte skyddar mot stöld om din dator är infekterad med en keylogger.</translation>
     </message>
     <message>
@@ -375,8 +375,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Frozen</source>
-        <translation>Visa information om Frozen</translation>
+        <source>Show information about Bleuet</source>
+        <translation>Visa information om Bleuet</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -420,13 +420,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Frozen address</source>
-        <translation>Skicka mynt till en Frozen-adress</translation>
+        <source>Send coins to a Bleuet address</source>
+        <translation>Skicka mynt till en Bleuet-adress</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Frozen</source>
-        <translation>Ändra konfigurationsalternativ för Frozen</translation>
+        <source>Modify configuration options for Bleuet</source>
+        <translation>Ändra konfigurationsalternativ för Bleuet</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -456,8 +456,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Frozen</source>
-        <translation>Frozen</translation>
+        <source>Bleuet</source>
+        <translation>Bleuet</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -481,8 +481,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Frozen</source>
-        <translation>&amp;Om Frozen</translation>
+        <source>&amp;About Bleuet</source>
+        <translation>&amp;Om Bleuet</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -501,13 +501,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Frozen addresses to prove you own them</source>
-        <translation>Signera meddelanden med din Frozenadress för att bevisa att du äger dem</translation>
+        <source>Sign messages with your Bleuet addresses to prove you own them</source>
+        <translation>Signera meddelanden med din Bleuetadress för att bevisa att du äger dem</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Frozen addresses</source>
-        <translation>Verifiera meddelanden för att vara säker på att de var signerade med den specificerade Frozen-adressen</translation>
+        <source>Verify messages to ensure they were signed with specified Bleuet addresses</source>
+        <translation>Verifiera meddelanden för att vara säker på att de var signerade med den specificerade Bleuet-adressen</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -537,13 +537,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+47"/>
-        <source>Frozen client</source>
-        <translation>Frozen-klient</translation>
+        <source>Bleuet client</source>
+        <translation>Bleuet-klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Frozen network</source>
-        <translation><numerusform>%n aktiv anslutning till Frozen-nätverket</numerusform><numerusform>%n aktiva anslutningar till Frozen-nätverket</numerusform></translation>
+        <source>%n active connection(s) to Bleuet network</source>
+        <translation><numerusform>%n aktiv anslutning till Bleuet-nätverket</numerusform><numerusform>%n aktiva anslutningar till Bleuet-nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -657,8 +657,8 @@ Adress: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Frozen address or malformed URI parameters.</source>
-        <translation>URI går inte att tolkas! Detta kan orsakas av en ogiltig Frozen-adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Bleuet address or malformed URI parameters.</source>
+        <translation>URI går inte att tolkas! Detta kan orsakas av en ogiltig Bleuet-adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -672,8 +672,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Frozen can no longer continue safely and will quit.</source>
-        <translation>Ett allvarligt fel har uppstått. Frozen kan inte längre köras säkert och kommer att avslutas.</translation>
+        <source>A fatal error occurred. Bleuet can no longer continue safely and will quit.</source>
+        <translation>Ett allvarligt fel har uppstått. Bleuet kan inte längre köras säkert och kommer att avslutas.</translation>
     </message>
 </context>
 <context>
@@ -738,8 +738,8 @@ Adress: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Frozen address.</source>
-        <translation>Den angivna adressen &quot;%1&quot; är inte en giltig Frozen-adress.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Bleuet address.</source>
+        <translation>Den angivna adressen &quot;%1&quot; är inte en giltig Bleuet-adress.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -757,8 +757,8 @@ Adress: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Frozen-Qt</source>
-        <translation>Frozen-Qt</translation>
+        <source>Bleuet-Qt</source>
+        <translation>Bleuet-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -820,13 +820,13 @@ Adress: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Frozen after logging in to the system.</source>
-        <translation>Starta Frozen automatiskt efter inloggning.</translation>
+        <source>Automatically start Bleuet after logging in to the system.</source>
+        <translation>Starta Bleuet automatiskt efter inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Frozen on system login</source>
-        <translation>&amp;Starta Frozen vid systemstart</translation>
+        <source>&amp;Start Bleuet on system login</source>
+        <translation>&amp;Starta Bleuet vid systemstart</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -845,8 +845,8 @@ Adress: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Frozen client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt Frozen-klientens port på routern. Detta fungerar endast om din router har UPnP aktiverat.</translation>
+        <source>Automatically open the Bleuet client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt Bleuet-klientens port på routern. Detta fungerar endast om din router har UPnP aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -855,8 +855,8 @@ Adress: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Frozen network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Anslut till Frozen-nätverket genom en SOCKS-proxy (t.ex. när du ansluter genom Tor).</translation>
+        <source>Connect to the Bleuet network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Anslut till Bleuet-nätverket genom en SOCKS-proxy (t.ex. när du ansluter genom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -930,8 +930,8 @@ Adress: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Frozen.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Denna inställning träder i kraft efter en omstart av Frozen.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Bleuet.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Denna inställning träder i kraft efter en omstart av Bleuet.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -945,8 +945,8 @@ Adress: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Frozen addresses in the transaction list or not.</source>
-        <translation>Anger om Frozen-adresser skall visas i transaktionslistan.</translation>
+        <source>Whether to show Bleuet addresses in the transaction list or not.</source>
+        <translation>Anger om Bleuet-adresser skall visas i transaktionslistan.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -997,8 +997,8 @@ Adress: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Frozen.</source>
-        <translation>Denna inställning träder i kraft efter en omstart av Frozen.</translation>
+        <source>This setting will take effect after restarting Bleuet.</source>
+        <translation>Denna inställning träder i kraft efter en omstart av Bleuet.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1016,8 +1016,8 @@ Adress: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Frozen network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara inaktuell. Plånboken synkroniseras automatiskt med Frozen-nätverket efter att anslutningen är upprättad, men denna process har inte slutförts ännu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bleuet network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara inaktuell. Plånboken synkroniseras automatiskt med Bleuet-nätverket efter att anslutningen är upprättad, men denna process har inte slutförts ännu.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1070,7 +1070,7 @@ Adress: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start frozen: click-to-pay handler</source>
+        <source>Cannot start bleuet: click-to-pay handler</source>
         <translation>Kan inte starta bitcin: klicka-och-betala handhavare</translation>
     </message>
 </context>
@@ -1220,8 +1220,8 @@ Adress: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Frozen-Qt help message to get a list with possible Frozen command-line options.</source>
-        <translation>Visa Frozen-Qt hjälpmeddelande för att få en lista med möjliga Frozen kommandoradsalternativ.</translation>
+        <source>Show the Bleuet-Qt help message to get a list with possible Bleuet command-line options.</source>
+        <translation>Visa Bleuet-Qt hjälpmeddelande för att få en lista med möjliga Bleuet kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1240,13 +1240,13 @@ Adress: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Frozen - Debug window</source>
-        <translation>Frozen - Debug fönster</translation>
+        <source>Bleuet - Debug window</source>
+        <translation>Bleuet - Debug fönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Frozen Core</source>
-        <translation>Frozen Kärna</translation>
+        <source>Bleuet Core</source>
+        <translation>Bleuet Kärna</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1255,8 +1255,8 @@ Adress: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Frozen debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna Frozen debug-loggfilen som finns i datakatalogen. Detta kan ta några sekunder för stora loggfiler.</translation>
+        <source>Open the Bleuet debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna Bleuet debug-loggfilen som finns i datakatalogen. Detta kan ta några sekunder för stora loggfiler.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1265,8 +1265,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Frozen RPC console.</source>
-        <translation>Välkommen till Frozen RPC-konsollen.</translation>
+        <source>Welcome to the Bleuet RPC console.</source>
+        <translation>Välkommen till Bleuet RPC-konsollen.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1449,8 +1449,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Frozen address (e.g. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</source>
-        <translation>Ange en Frozen-adress (t.ex. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</translation>
+        <source>Enter a Bleuet address (e.g. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</source>
+        <translation>Ange en Bleuet-adress (t.ex. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</translation>
     </message>
 </context>
 <context>
@@ -1514,7 +1514,7 @@ Adress: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Frozen address</source>
+        <source>Sign the message to prove you own this Bleuet address</source>
         <translation>Signera meddelandet för att bevisa att du äger denna adress</translation>
     </message>
     <message>
@@ -1550,8 +1550,8 @@ Adress: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Frozen address</source>
-        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den angivna Frozen-adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified Bleuet address</source>
+        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den angivna Bleuet-adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1566,8 +1566,8 @@ Adress: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Frozen address (e.g. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</source>
-        <translation>Ange en Frozen-adress (t.ex. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</translation>
+        <source>Enter a Bleuet address (e.g. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</source>
+        <translation>Ange en Bleuet-adress (t.ex. FRDNY9x5CospzTK4ZDyZ84Kyyvyv3N12Z9)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1576,8 +1576,8 @@ Adress: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Frozen signature</source>
-        <translation>Ange Frozen-signatur</translation>
+        <source>Enter Bleuet signature</source>
+        <translation>Ange Bleuet-signatur</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1650,8 +1650,8 @@ Adress: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Frozen developers</source>
-        <translation>Frozen-utvecklarna</translation>
+        <source>The Bleuet developers</source>
+        <translation>Bleuet-utvecklarna</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2185,11 +2185,11 @@ Adress: %4
     </message>
 </context>
 <context>
-    <name>frozen-core</name>
+    <name>bleuet-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Frozen version</source>
-        <translation>Frozen version</translation>
+        <source>Bleuet version</source>
+        <translation>Bleuet version</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2198,8 +2198,8 @@ Adress: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or frozend</source>
-        <translation>Skicka kommando till -server eller frozend</translation>
+        <source>Send command to -server or bleuetd</source>
+        <translation>Skicka kommando till -server eller bleuetd</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2218,13 +2218,13 @@ Adress: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: frozen.conf)</source>
-        <translation>Ange konfigurationsfil (förvalt: frozen.conf)</translation>
+        <source>Specify configuration file (default: bleuet.conf)</source>
+        <translation>Ange konfigurationsfil (förvalt: bleuet.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: frozend.pid)</source>
-        <translation>Ange pid fil (förvalt: frozend.pid)</translation>
+        <source>Specify pid file (default: bleuetd.pid)</source>
+        <translation>Ange pid fil (förvalt: bleuetd.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2301,24 +2301,24 @@ Adress: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=frozenrpc
+rpcuser=bleuetrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Frozen Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Bleuet Alert&quot; admin@foo.com
 </source>
         <translation>%s, du behöver sätta ett rpclösensord i konfigurationsfilen:
 %s
 Det är rekommenderat att använda följande slumpade lösenord:
-rpcuser=frozenrpc
+rpcuser=bleuetrpc
 rpcpassword=%s
 (du behöver inte komma ihåg lösenordet)
 Användarnamnet och lösenordet FÅR INTE bara detsamma.
 Om filen inte existerar, skapa den med enbart ägarläsbara filrättigheter.
 Det är också rekommenderat att sätta alertnotify så du meddelas om problem;
-till exempel: alertnotify=echo %%s | mail -s &quot;Frozen Alert&quot; admin@foo.com
+till exempel: alertnotify=echo %%s | mail -s &quot;Bleuet Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2333,8 +2333,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Frozen Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Frozen is probably already running.</source>
-        <translation>Kan inte låsa data-mappen %s. Frozen körs förmodligen redan.</translation>
+        <source>Cannot obtain a lock on data directory %s. Bleuet is probably already running.</source>
+        <translation>Kan inte låsa data-mappen %s. Bleuet körs förmodligen redan.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2344,7 +2344,7 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Frozen Alert&quot; admin@foo.
     <message>
         <location line="+4"/>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds!</source>
-        <translation>Fel: Denna transaktion kräver en transaktionsavgift på minst %s på grund av dess storlek, komplexitet, eller användning av senast mottagna frozens!</translation>
+        <translation>Fel: Denna transaktion kräver en transaktionsavgift på minst %s på grund av dess storlek, komplexitet, eller användning av senast mottagna bleuets!</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2378,8 +2378,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Frozen Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Frozen will not work properly.</source>
-        <translation>Varning: Vänligen kolla så att din dators datum och tid är korrekt! Om din klocka går fel kommer Frozen inte fungera korrekt.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Bleuet will not work properly.</source>
+        <translation>Varning: Vänligen kolla så att din dators datum och tid är korrekt! Om din klocka går fel kommer Bleuet inte fungera korrekt.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2628,8 +2628,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Frozen Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Frozen Wiki for SSL setup instructions)</source>
-        <translation>SSL-inställningar: (se Frozen-wikin för SSL-setup instruktioner)</translation>
+        <source>SSL options: (see the Bleuet Wiki for SSL setup instructions)</source>
+        <translation>SSL-inställningar: (se Bleuet-wikin för SSL-setup instruktioner)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2818,13 +2818,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Frozen Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Frozen</source>
-        <translation>Fel vid inläsningen av wallet.dat: Plånboken kräver en senare version av Frozen</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Bleuet</source>
+        <translation>Fel vid inläsningen av wallet.dat: Plånboken kräver en senare version av Bleuet</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Frozen to complete</source>
-        <translation>Plånboken behöver skrivas om: Starta om Frozen för att färdigställa</translation>
+        <source>Wallet needed to be rewritten: restart Bleuet to complete</source>
+        <translation>Plånboken behöver skrivas om: Starta om Bleuet för att färdigställa</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2869,7 +2869,7 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Frozen Alert&quot; admin@foo.
     <message>
         <location line="-6"/>
         <source>Insufficient funds</source>
-        <translation>Otillräckligt med frozens</translation>
+        <translation>Otillräckligt med bleuets</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2883,8 +2883,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Frozen Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Frozen is probably already running.</source>
-        <translation>Det går inte att binda till %s på den här datorn. Frozen är förmodligen redan igång.</translation>
+        <source>Unable to bind to %s on this computer. Bleuet is probably already running.</source>
+        <translation>Det går inte att binda till %s på den här datorn. Bleuet är förmodligen redan igång.</translation>
     </message>
     <message>
         <location line="+64"/>

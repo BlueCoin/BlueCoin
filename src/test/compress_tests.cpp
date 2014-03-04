@@ -41,7 +41,7 @@ BOOST_AUTO_TEST_CASE(compress_amounts)
     BOOST_CHECK(TestPair(         CENT,       0x4));
     BOOST_CHECK(TestPair(         COIN,       0x6));
     BOOST_CHECK(TestPair(      50*COIN,        47));
-    // BOOST_CHECK(TestPair(21000000*COIN, 0x1406f40)); // ignore for FZ
+    // BOOST_CHECK(TestPair(21000000*COIN, 0x1406f40)); // ignore for BLT
 
     for (uint64 i = 1; i <= NUM_MULTIPLES_UNIT; i++)
         BOOST_CHECK(TestEncode(i));

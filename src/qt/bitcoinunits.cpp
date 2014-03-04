@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case Fz: return QString("Frozen");
-    case cFz: return QString("Centum-Frozen (1 / 100)");
-    case mFz: return QString("Milli-Frozen (1 / 1,000)");
+    case Fz: return QString("Bleuet");
+    case cFz: return QString("Centum-Bleuet (1 / 100)");
+    case mFz: return QString("Milli-Bleuet (1 / 1,000)");
     default: return QString("???");
     }
 }
