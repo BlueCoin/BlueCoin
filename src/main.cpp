@@ -2906,7 +2906,7 @@ CBlock(hash=00000e5e37c42d6b67d0934399adfb0fa48b59138abb1a8842c88f4ca3d4ec96, ve
 */
 
         // Genesis block
-        const char* pszTimestamp = "Drudge Report 30/Dec/2013 How NSA Remotely bugs iPhones";
+        const char* pszTimestamp = "Découverte d'un virus géant vieux de 30 000 ans";
         CTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
@@ -2924,7 +2924,7 @@ CBlock(hash=00000e5e37c42d6b67d0934399adfb0fa48b59138abb1a8842c88f4ca3d4ec96, ve
 
         if (fTestNet)
         {
-            block.nTime    = 1388444199;
+            block.nTime    = 1393909513;
             block.nNonce   = 905523645;
         }
 
