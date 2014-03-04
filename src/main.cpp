@@ -2858,7 +2858,7 @@ bool LoadBlockIndex()
         pchMessageStart[1] = 0x01;
         pchMessageStart[2] = 0xF7;
         pchMessageStart[3] = 0x39;
-        hashGenesisBlock = uint256("0x00000e5e37c42d6b67d0934399adfb0fa48b59138abb1a8842c88f4ca3d4ec96");
+        hashGenesisBlock = uint256("0x3ffe29f01d766b7e8c70d2afe16f4c16693e79f7e1690875d6e44bf04af58b31");
     }
 
     //
@@ -2925,7 +2925,7 @@ CBlock(hash=00000e5e37c42d6b67d0934399adfb0fa48b59138abb1a8842c88f4ca3d4ec96, ve
         if (fTestNet)
         {
             block.nTime    = 1393909513;
-            block.nNonce   = 905523645;
+            block.nNonce   = 905523659;
         }
 
         //// debug print
@@ -2939,7 +2939,7 @@ CBlock(hash=00000e5e37c42d6b67d0934399adfb0fa48b59138abb1a8842c88f4ca3d4ec96, ve
         printf("%s\n", hashGenesisBlock.ToString().c_str());
         printf("%s\n", block.hashMerkleRoot.ToString().c_str());
         block.print();
-        assert(block.hashMerkleRoot == uint256("0x66a99d71f0fa4689f6a767e6fd0f3ec41969d01ebcc221e19630113755a73229"));
+        assert(block.hashMerkleRoot == uint256("0xe5ace102fab1cb1a1e635245dd64c9e18fa414a53a28c7c88bef15ebe5b9c6b6"));
         assert(hash == hashGenesisBlock);
 
         // Start new block file
