@@ -2970,7 +2970,7 @@ bool InitBlockIndex() {
 
 
         // Genesis block
-        const char* pszTimestamp = "Brr.";
+        const char* pszTimestamp = "Tarte aux bleuets";
         CTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
